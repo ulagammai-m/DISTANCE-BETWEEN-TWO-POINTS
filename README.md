@@ -10,10 +10,12 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 ### Step 5: 
 ### PROGRAM:
-  
+hjsbjjajakkNSKKK  
 
 
 ### OUTPUT:
+![OUTPUT](purple-osteospermum-daisy-flower_1373-16.png)
 
 
 ### RESULT:
+EXP DONE
